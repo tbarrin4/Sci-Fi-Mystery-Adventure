@@ -7,7 +7,7 @@ First sprint:
 [x] Evaluate repository that is similar to what I will be making.
 
 Second sprint:
-[ ] Begin writing code for game
+[x] Begin writing code for game
 [ ] Compare code with forked repository
 [ ] Commit at least 6 code changes
 [ ] Paste 2 URLs to code commits
