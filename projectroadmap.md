@@ -10,7 +10,8 @@ Second sprint:
 [x] Begin writing code for game
 [x] Compare code with forked repository
 [ ] Commit at least 6 code changes
-[ ] Paste 2 URLs to code commits
+[x] Paste 2 URLs to code commits
+
 
 Third sprint:
 [ ] Continue writing code and testing
